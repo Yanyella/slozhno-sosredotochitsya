@@ -27,6 +27,8 @@
   margin-block-end: 60px;
 }
 
+/* стилизация rec */
+
 .header__recording {
   position: absolute;
   display: var(--display-rec, initial);
@@ -50,6 +52,8 @@
   background-color: var(--accent-color, #FF0070);
   box-shadow: 0px 0px 4px 2px #FF0070;
 }
+
+/* стилизация декоративных элементов на странице */
 
 .decorated-zone::after {
   content: "";
@@ -100,6 +104,8 @@
   cursor: pointer;
   transition: all 0.2s;
 }
+
+/* стилизация состояний кнопок */
 
 .header__theme-menu-button:hover {
   outline: 1px solid var(--menu-hover-color, #FF0070);
