@@ -28,3 +28,24 @@
   --card-title-color: #000028;
 }
 
+@media (prefers-color-scheme: light) {
+  :root { 
+    --bg-image: url(../images/cover-image-light.png);
+    --bg-page-color: #FFF1F7;
+    --display-rec: none;
+    --color-title: #FFC2E6;
+    --accent-color: rgba(53, 52, 48, 1);
+    --shadow-color: #FF8DCB;
+    --accent-bg: #FF8DCB;
+    --card-color-text: #353430;
+    --primary-font-family: 'IBM Plex mono', serif;
+    --primary-font-size: 18px;
+    --primary-font-weigth: 400;
+    --primary-line-height: 23.4px;
+    --menu-color: rgba(53, 52, 48, 1); 
+    --menu-hover-color: rgba(53, 52, 48, 1);
+    --link-shadow-color: #FF8DCB;
+    --link-focus-color: #353430;
+    --card-title-color: #000028;
+  }
+}

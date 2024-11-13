@@ -274,6 +274,7 @@
 
 .about-rules__list-item-text {
   font-size: inherit;
+  font-weight: var(--primary-font-weigth, 400);
   color: var(--card-color-text, #F1B2CE);
 }
 
