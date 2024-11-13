@@ -10,6 +10,7 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --bg-image: url(../images/cover-image-dark.png);
+  --bg-page-color: #000028;
   --display-rec: initial;
   --color-title: #DB00FF;
   --accent-color: #FF0070;
@@ -20,10 +21,10 @@
   --primary-font-size: 18px;
   --primary-font-weigth: 400;
   --primary-line-height: 23.4px;
-  --card-title-color: #000028; 
+  --menu-color: #FF0070;
   --menu-hover-color: #FF0070;
   --link-shadow-color: #FF0070;
-  --bg-page-color: #000028;
-  --menu-color: #FF0070;
+  --link-focus-color: #F1B2CE;
+  --card-title-color: #000028;
 }
 
