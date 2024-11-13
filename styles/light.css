@@ -25,11 +25,11 @@
   --link-shadow-color: #FF8DCB;
   --link-focus-color: #353430;
   --card-title-color: #000028;
-  --menu-color: rgba(53, 52, 48, 1); 
+  --menu-color: rgba(53, 52, 48, 1);
 }
 
 @media (prefers-color-scheme: light) {
-  :root { 
+  :root {
     --bg-image: url(../images/cover-image-light.png);
     --bg-page-color: #FFF1F7;
     --display-rec: none;
@@ -42,7 +42,7 @@
     --primary-font-size: 18px;
     --primary-font-weigth: 400;
     --primary-line-height: 23.4px;
-    --menu-color: rgba(53, 52, 48, 1); 
+    --menu-color: rgba(53, 52, 48, 1);
     --menu-hover-color: rgba(53, 52, 48, 1);
     --link-shadow-color: #FF8DCB;
     --link-focus-color: #353430;
