@@ -17,8 +17,9 @@
   --primary-font-weigth: 400;
   --primary-line-height: 23.4px;
   --menu-color: #FF0070;
-  --menu-hover-color: #FF0070;
+  --menu-hover-color: rgba(255, 0, 112, 0.4);
   --link-shadow-color: #FF0070;
+  --link-text-hover: rgba(241, 178, 206, 1);  
   --link-focus-color: #F1B2CE;
   --card-title-color: #000028;
 }
